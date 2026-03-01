@@ -10,10 +10,10 @@ This project was built as a hands-on learning experience to understand Unity arc
 
 ## Project Overview
 
-* **Engine:** Unity
-* **Language:** C#
-* **Platform:** Windows (64-bit)
-* **Project Type:** Single-player survival prototype
+- **Engine:** Unity
+- **Language:** C#
+- **Platform:** Windows (64-bit)
+- **Project Type:** Single-player survival prototype
 
 The primary objective of this project was to design, develop, and export a fully functional playable build while applying core game development principles.
 
@@ -33,9 +33,9 @@ Monster-Chase-Unity/
 
 ### Core Directories
 
-* **Assets/** → Contains all gameplay content and source code
-* **Packages/** → Managed dependencies via Unity Package Manager
-* **ProjectSettings/** → Project-level engine configurations
+- **Assets/** → Contains all gameplay content and source code
+- **Packages/** → Managed dependencies via Unity Package Manager
+- **ProjectSettings/** → Project-level engine configurations
 
 ---
 
@@ -53,19 +53,19 @@ Or download the ZIP file and extract it locally.
 
 ### 2. Open in Unity Hub
 
-* Launch **Unity Hub**
-* Click **Add Project**
-* Select the cloned/extracted folder
-* Open using the compatible Unity version
+- Launch **Unity Hub**
+- Click **Add Project**
+- Select the cloned/extracted folder
+- Open using the compatible Unity version
 
 ### 3. Run the Project
 
-* Navigate to `Assets/Scenes`
-* Open:
+- Navigate to `Assets/Scenes`
+- Open:
+  - `MainMenu`
+  - `GamePlay`
 
-  * `MainMenu`
-  * `GamePlay`
-* Click ▶ **Play** in the Unity Editor
+- Click ▶ **Play** in the Unity Editor
 
 ---
 
@@ -79,6 +79,7 @@ If you prefer to play without installing Unity:
    ```
    MonsterChase_v1.0.zip
    ```
+
 3. Extract the archive
 4. Launch:
 
@@ -92,8 +93,8 @@ If you prefer to play without installing Unity:
 
 ## Controls
 
-* **W / A / S / D** → Player movement
-* **Mouse** → Camera look
+- **W / A / S / D** → Player movement
+- **Mouse** → Camera look
 
 Objective: Survive as long as possible while avoiding chasing enemies.
 
@@ -101,20 +102,8 @@ Objective: Survive as long as possible while avoiding chasing enemies.
 
 ## Screenshots
 
-Place screenshots inside a `/Screenshots` folder and reference them as shown below:
-
-```markdown
-![Character Selection Screenshot](Screenshots/characterSelection.png.png)
+![Character Selection Screenshot](Screenshots/characterSelection.png)
 ![Enemy Chase](Screenshots/enemyChase.png)
-```
-
----
-
-## Gameplay Demo
-
-Gameplay video:
-
-👉 [https://your-video-link-here.com](https://your-video-link-here.com)
 
 ---
 
@@ -122,21 +111,21 @@ Gameplay video:
 
 Through this project, I developed practical experience in:
 
-* Unity project architecture and scene management
-* C# scripting for gameplay mechanics
-* Basic AI implementation (enemy chase logic)
-* Camera systems and player controls
-* UI design within Unity
-* Building and exporting production-ready executables
+- Unity project architecture and scene management
+- C# scripting for gameplay mechanics
+- Basic AI implementation (enemy chase logic)
+- Camera systems and player controls
+- UI design within Unity
+- Building and exporting production-ready executables
 
 ---
 
-##  About the Developer
+## About the Developer
 
 This project represents the starting point of my journey into game development. It demonstrates my ability to:
 
-* Design and complete a full Unity project lifecycle
-* Apply programming fundamentals in C#
-* Deliver a functional, playable build
+- Design and complete a full Unity project lifecycle
+- Apply programming fundamentals in C#
+- Deliver a functional, playable build
 
 More updates and improvements are planned as I continue expanding my skills in game development.
