@@ -2,7 +2,7 @@
 
 ## First Playable Build | Unity Game Development Project
 
-**Monster Chase** is a 3D survival-style game developed in Unity as my first complete end-to-end game project. The player must avoid AI-driven enemies that actively chase them across the map.
+**Monster Chase** is a 2D survival-style game developed in Unity as my first complete end-to-end game project. The player must avoid enemies that actively chase them across the map.
 
 This project was built as a hands-on learning experience to understand Unity architecture, C# scripting, UI systems, and the full build/export pipeline.
 
