@@ -8,7 +8,7 @@ This project was built as a hands-on learning experience to understand Unity arc
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 * **Engine:** Unity
 * **Language:** C#
@@ -19,7 +19,7 @@ The primary objective of this project was to design, develop, and export a fully
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Monster-Chase-Unity/
@@ -104,8 +104,8 @@ Objective: Survive as long as possible while avoiding chasing enemies.
 Place screenshots inside a `/Screenshots` folder and reference them as shown below:
 
 ```markdown
-![Gameplay Screenshot](Screenshots/gameplay1.png)
-![Enemy Chase](Screenshots/gameplay2.png)
+![Character Selection Screenshot](Screenshots/characterSelection.png.png)
+![Enemy Chase](Screenshots/enemyChase.png)
 ```
 
 ---
