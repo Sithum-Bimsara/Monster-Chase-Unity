@@ -8,7 +8,7 @@ This project was built as a hands-on learning experience to understand Unity arc
 
 ---
 
-## Project Overview
+## 🎯 Project Overview
 
 - **Engine:** Unity
 - **Language:** C#
@@ -19,7 +19,19 @@ The primary objective of this project was to design, develop, and export a fully
 
 ---
 
-## Project Structure
+## ✨ Key Features
+
+ - Character selection system
+
+ - Smooth camera follow system
+
+ - Interactive UI (Main Menu & Gameplay scene)
+
+ - Standalone Windows build
+
+---
+
+## 📂 Project Structure
 
 ```
 Monster-Chase-Unity/
@@ -69,7 +81,7 @@ Or download the ZIP file and extract it locally.
 
 ---
 
-## Play the Game (Executable Build)
+## 🎮 Play the Game (Executable Build)
 
 If you prefer to play without installing Unity:
 
@@ -104,19 +116,6 @@ Objective: Survive as long as possible while avoiding chasing enemies.
 
 ![Character Selection Screenshot](Screenshots/characterSelection.png)
 ![Enemy Chase](Screenshots/enemyChase.png)
-
----
-
-## Learning Outcomes
-
-Through this project, I developed practical experience in:
-
-- Unity project architecture and scene management
-- C# scripting for gameplay mechanics
-- Basic AI implementation (enemy chase logic)
-- Camera systems and player controls
-- UI design within Unity
-- Building and exporting production-ready executables
 
 ---
 
